@@ -1,0 +1,16 @@
+<package>
+  <description brief="imu_serial">
+
+     imu_serial
+
+  </description>
+  <author>JHP</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/imu_serial</url>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+
+</package>
+
+
